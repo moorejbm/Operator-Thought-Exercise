@@ -1,0 +1,13 @@
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\obj\Debug\netcoreapp3.1\Operator Thought Exercise.csprojAssemblyReference.cache
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\obj\Debug\netcoreapp3.1\Operator Thought Exercise.AssemblyInfoInputs.cache
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\obj\Debug\netcoreapp3.1\Operator Thought Exercise.AssemblyInfo.cs
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\obj\Debug\netcoreapp3.1\Operator Thought Exercise.csproj.CoreCompileInputs.cache
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\bin\Debug\netcoreapp3.1\Operator Thought Exercise.exe
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\bin\Debug\netcoreapp3.1\Operator Thought Exercise.deps.json
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\bin\Debug\netcoreapp3.1\Operator Thought Exercise.runtimeconfig.json
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\bin\Debug\netcoreapp3.1\Operator Thought Exercise.runtimeconfig.dev.json
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\bin\Debug\netcoreapp3.1\Operator Thought Exercise.dll
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\bin\Debug\netcoreapp3.1\Operator Thought Exercise.pdb
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\obj\Debug\netcoreapp3.1\Operator Thought Exercise.dll
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\obj\Debug\netcoreapp3.1\Operator Thought Exercise.pdb
+C:\Users\moore\source\repos\Operator Thought Exercise\Operator Thought Exercise\obj\Debug\netcoreapp3.1\Operator Thought Exercise.genruntimeconfig.cache
